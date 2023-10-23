@@ -1,2 +1,2 @@
 # famea
-Your free and fast photoeditor
+Your AI generator 
