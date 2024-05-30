@@ -1,2 +1,2 @@
 # famea
-Your AI generator 
+Erlebe Hostel und Wohnheim Management auf neuem Level
